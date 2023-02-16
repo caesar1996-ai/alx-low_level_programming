@@ -1,10 +1,10 @@
 #include <stdio.h>
 /**
  *main- A program that uses puts to print a string
- *Return: ends with 0
+ *Return: 0
  */
 int main(void)
 {
-printf("\"Programming is like building a multilingual puzzle");
+printf("Programming is like building a multilingual puzzle,\");
 return (0);
 }
