@@ -1,10 +1,10 @@
 #include <stdio.h>
 /**
- * main- prints a string followed by a new line
- * Return: 0
+ *main- A program that uses puts to print a string
+ *Return: ends with 0
  */
 int main(void)
 {
-        printf("with proper grammar, but the outcome is a piece of art,\n");
+printf("\"Programming is like building a multilingual puzzle");
 return (0);
 }
